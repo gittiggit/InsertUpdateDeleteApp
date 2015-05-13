@@ -1,0 +1,9 @@
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\bin\Debug\CRUDOperationWinFormApp.exe.config
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\bin\Debug\CRUDOperationWinFormApp.exe
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\bin\Debug\CRUDOperationWinFormApp.pdb
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\obj\Debug\CRUDOperationWinFormApp.csprojResolveAssemblyReference.cache
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\obj\Debug\CRUDOperationWinFormApp.Form1.resources
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\obj\Debug\CRUDOperationWinFormApp.Properties.Resources.resources
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\obj\Debug\CRUDOperationWinFormApp.csproj.GenerateResource.Cache
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\obj\Debug\CRUDOperationWinFormApp.exe
+I:\VS_Mine\CRUDOperationWinFormApp\CRUDOperationWinFormApp\obj\Debug\CRUDOperationWinFormApp.pdb
